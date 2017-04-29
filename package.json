@@ -1,0 +1,29 @@
+{
+  "name": "my-google-news",
+  "version": "2.0.0",
+  "description": "A module to search and scrape google news. This is not sponsored, supported, or affiliated with Google Inc.",
+  "main": "./lib/my-google-news.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HakimMliki/my-google-news.git"
+  },
+  "keywords": [
+    "google",
+    "news",
+    "search",
+    "scrape"
+  ],
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.54.0"
+  },
+  "author": "Hakim Mliki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HakimMliki/my-google-news/issues"
+  },
+  "homepage": "https://github.com/HakimMliki/my-google-news#readme"
+}
