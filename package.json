@@ -1,6 +1,6 @@
 {
   "name": "my-google-news",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A module to search and scrape google news. This is not sponsored, supported, or affiliated with Google Inc.",
   "main": "./lib/my-google-news.js",
   "scripts": {
