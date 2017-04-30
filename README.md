@@ -2,7 +2,7 @@ Node.js - my-google-news
 =====================
 
 
-
+A module to search and scrape from **`google news`**. This is not sponsored, supported, or affiliated with Google Inc.
 
 Installation
 ------------
