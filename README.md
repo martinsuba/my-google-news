@@ -57,7 +57,7 @@ full result here : http://www.jsoneditoronline.org/?id=0340890093b40a3b27cbaa5af
 
 API TEST
 -------
-After testing we can do **` 4 requests per minute `** without being blocked by google captcha.
+After testing we can do **` 4 requests per minute `** **`with max 100 result per request`** without being blocked by google captcha.
 
 License
 -------
@@ -66,4 +66,4 @@ Licensed under MIT. See `LICENSE` for more details.
 
 Copyright (c) Hakim Mliki
 
-Fill free to give a `start` and **`follow me`** for more updates and news ;)
+Fill free to give **`a start :) `** and **`follow me`** for more updates and news ;)
