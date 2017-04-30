@@ -66,4 +66,4 @@ Licensed under MIT. See `LICENSE` for more details.
 
 Copyright (c) Hakim Mliki
 
-Fill free to give **`a start :) `** and **`follow me`** for more updates and news ;)
+Fill free to give **`a star ♥  `** and **`follow me ♥`** for more updates and news ;)
